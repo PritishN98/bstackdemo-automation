@@ -1,0 +1,26 @@
+# Compiled class files
+target/
+bin/
+
+# Temporary and log files
+*.log
+*.tmp
+
+# TestNG outputs
+test-output/
+
+# ExtentReports & Screenshots
+TestReport/*.html
+Screenshots/*.png
+
+# IDE files
+.idea/
+*.iml
+*.iws
+out/
+.vscode/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
