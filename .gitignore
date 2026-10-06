@@ -24,3 +24,5 @@ out/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+.settings/org.eclipse.core.resources.prefs
